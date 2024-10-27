@@ -1,0 +1,54 @@
+body { 
+    background-color: #f7eca4; 
+} 
+ 
+.h1 { 
+    font-family: FRANKLIN GOTHIC MEDIUM; 
+    margin: 0; 
+    padding: 0 30px; 
+    text-align: center; 
+    font-size: 45px; 
+    color: white; 
+    -webkit-text-stroke-color: #DDA600; 
+    -webkit-text-stroke-width: 2px; 
+    background-image: linear-gradient(to right, #FFEE80, #FFA257); 
+} 
+
+h1 { 
+    font-family: FRANKLIN GOTHIC MEDIUM; 
+    text-align: center; 
+    font-size: 45px; 
+    color: white; 
+    -webkit-text-stroke-color: #DDA600; 
+    -webkit-text-stroke-width: 2px; 
+    border-radius: 10px; 
+} 
+
+p {
+    font-family: comic sans ms; 
+    font-size: 15px; 
+    color: #DDA600; 
+}
+
+.p2 {
+    font-family: comic sans ms; 
+    font-size: 17px; 
+    color: #c99c08; 
+    
+}
+
+a {
+    color: #dd8c00;
+    text-decoration: dashed underline;
+}
+
+div {
+    background-color: #FFF8CE; 
+    font-family: comic sans ms;  
+    color:#DDA600; 
+    border: 3px solid #DDA600; 
+    text-decoration: none; 
+    border-radius: 10px;
+    display: flex;
+}
+
